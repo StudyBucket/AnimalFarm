@@ -3,19 +3,17 @@
 ### Scrum-Master: Julian
 
 #### Julian:
-* -GitHub anlegen & einladen- √
-* WhatsApp-Gruppe anlegen & einladen
+* GitHub anlegen & einladen √
+* WhatsApp-Gruppe anlegen & einladen √
 
 #### Vera:
-* GitHub-Account senden
+* GitHub-Account senden √
 
 #### Vivi:
-* GitHub-Account senden
+* GitHub-Account senden √
 
 #### Anja:
-* GitHub-Account senden
+* GitHub-Account senden √
 
 
-## Offene Fragen
-
-## Spontane Ideen
+#### AnimalFarm
