@@ -3,7 +3,7 @@
 ### Scrum-Master: Julian
 
 #### Julian:
--* GitHub anlegen & einladen- √
+* -GitHub anlegen & einladen- √
 * WhatsApp-Gruppe anlegen & einladen
 
 #### Vera:
