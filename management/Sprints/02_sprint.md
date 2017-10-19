@@ -10,7 +10,9 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* Unity 2017.2 installieren
+* Unity 2017.2 installieren √
+* Szene (Text) raussuchen
+* Gebäude, Sprechrollen, Tiere 
 
 #### Vivi:
 * Tickets auf GitHub checken
