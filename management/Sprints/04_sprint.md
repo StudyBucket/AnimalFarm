@@ -1,6 +1,11 @@
-# 4. SPRINT: 15.11.2017
-## To Do bis zum 15.11.2017
+# 4. SPRINT: 08.11.2017
+## To Do bis zum 08.11.2017
 ### Scrum-Master: Julian
+
+#### Neu
+* Präsentation erstellen
++ erste Häuser fertig
++ erste Tiere fertig
 
 #### Julian:
 * Tickets auf GitHub checken
