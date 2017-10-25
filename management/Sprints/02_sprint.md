@@ -22,8 +22,8 @@
 
 #### Anja:
 * Tickets auf GitHub checken  
-* Unity 2017.2 installieren  
-* GitHub lernen  (√)
+* Unity 2017.2 installieren √ 
+* GitHub lernen  √
 * 3D-Modell: Hase (low poly) -> fast fertig
 
 
