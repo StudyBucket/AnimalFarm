@@ -2,6 +2,10 @@
 ## To Do bis zum 08.11.2017
 ### Scrum-Master: Julian
 
+#### Neu
+* Modell (Mockup) der Farm --> Aufteilung Gebäude
+* Basisgruppe der Tiere beschließen
+
 #### Julian:
 * Tickets auf GitHub checken
 * ...
