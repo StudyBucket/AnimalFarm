@@ -14,7 +14,7 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* ...
+* Modell/Skizze
 
 #### Vivi:
 * Tickets auf GitHub checken
