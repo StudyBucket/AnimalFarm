@@ -18,7 +18,8 @@
 
 #### Vivi:
 * Tickets auf GitHub checken
-* ...
+* 3D-Modell Schwein fertig machen
+* mehr Bäume modellieren
 
 #### Anja:
 * Tickets auf GitHub checken
