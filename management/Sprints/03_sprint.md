@@ -22,7 +22,7 @@
 
 #### Anja:
 * Tickets auf GitHub checken
-* ...
+* 3D-Modell Hase fertig machen
 
 
 ## Offene Fragen
