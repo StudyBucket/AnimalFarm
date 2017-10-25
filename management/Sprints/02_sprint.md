@@ -15,10 +15,12 @@
 * Gebäude, Sprechrollen, Tiere √ 
 
 #### Vivi:
-* Tickets auf GitHub checken
+* Tickets auf GitHub checken. √
 * Unity 2017.2 installieren.  √
-* GitHub lernen
-* 3D-Modell: Schwein (low poly)
+* GitHub lernen               √
+* 3D-Modell: Schwein (low poly) (in arbeit)
+* 3D-Modell: Baum (low poly) √
+
 
 #### Anja:
 * Tickets auf GitHub checken  
