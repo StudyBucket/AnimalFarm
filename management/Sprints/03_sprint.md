@@ -3,8 +3,10 @@
 ### Scrum-Master: Julian
 
 #### Neu
-* Modell (Mockup) der Farm --> Aufteilung Gebäude
+* Modell (Mockup/Skizze) der Farm -> Aufteilung Gebäude
 * Basisgruppe der Tiere beschließen
+* Welche 3D-Modelle?
+* Skype-Konferenz
 
 #### Julian:
 * Tickets auf GitHub checken
