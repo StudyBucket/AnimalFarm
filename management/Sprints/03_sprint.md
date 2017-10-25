@@ -1,5 +1,5 @@
-# 3. SPRINT: 08.11.2017
-## To Do bis zum 08.11.2017
+# 3. SPRINT: 01.11.2017
+## To Do bis zum 01.11.2017
 ### Scrum-Master: Julian
 
 #### Neu
