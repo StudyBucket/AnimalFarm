@@ -7,6 +7,7 @@
 * Basisgruppe der Tiere beschließen
 * Welche 3D-Modelle?
 * Skype-Konferenz
+* Wie soll das Menü aussehen?
 
 #### Julian:
 * Tickets auf GitHub checken
