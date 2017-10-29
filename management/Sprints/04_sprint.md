@@ -2,26 +2,21 @@
 ## To Do bis zum 08.11.2017
 ### Scrum-Master: Julian
 
-#### Neu
+#### Alle
 * Präsentation erstellen
-+ erste Häuser fertig
-+ erste Tiere fertig
 
 #### Julian:
-* Tickets auf GitHub checken
 * ...
 
 #### Vera:
-* Tickets auf GitHub checken
-* ...
+* Animation checken
 
 #### Vivi:
-* Tickets auf GitHub checken
-* ...
+* Tonstudio anfragen
+* 3D-Modell Schwein fertig machen
 
 #### Anja:
-* Tickets auf GitHub checken
-* ...
+* Pferd modellieren
 
 
 ## Offene Fragen
