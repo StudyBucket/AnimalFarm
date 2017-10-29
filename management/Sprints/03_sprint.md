@@ -10,9 +10,9 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* Modell/Skizze
+* Modell/Skizze √
 * Importieren ausprobieren
-* Email an Jan
+* Email an Jan √
 
 #### Vivi:
 * Tickets auf GitHub checken
