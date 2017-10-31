@@ -1,0 +1,3 @@
+Der Hase ist erstmal vorläufig, irgendwas ist beim Zusammenfügen zweier symmetrischer Hälften schiefgelaufen, 
+und seitdem lassen sich die Polygone nicht mehr richtig ziehen und der Hase sieht sehr beulig aus. 
+Die Texturen hab ich auch erstmal nur lieblos draufgeklatscht, ich werde den vermutlich am Ende nochmal neu machen. 
