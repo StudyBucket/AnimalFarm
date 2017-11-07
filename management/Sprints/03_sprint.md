@@ -16,7 +16,7 @@
 
 #### Vivi:
 * Tickets auf GitHub checken
-* Bäume/Steine modellieren
+* Bäume/Steine modellieren √
 
 #### Anja:
 * Tickets auf GitHub checken
