@@ -12,7 +12,7 @@
 * Animation checken
 
 #### Vivi:
-* Tonstudio anfragen
+* Tonstudio anfragen (noch keine Antwort)
 * 3D-Modell Schwein fertig machen
 
 #### Anja:
