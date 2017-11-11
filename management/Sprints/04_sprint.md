@@ -16,7 +16,7 @@
 * 3D-Modell Schwein fertig machen
 
 #### Anja:
-* Pferd modellieren
+* Pferd modellieren √
 
 
 ## Offene Fragen
