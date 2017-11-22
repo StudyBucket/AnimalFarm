@@ -16,7 +16,8 @@
 
 #### Anja:
 * Tickets auf GitHub checken
-* ...
+* evtl. weitere Tiermodelle (langzeit) -> zu nächster Woche
+* Rigging in 3ds max anschauen -> zu nächster Woche
 
 
 ## Offene Fragen
