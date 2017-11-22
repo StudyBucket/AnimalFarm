@@ -16,10 +16,10 @@
 * Zenhub installieren
 
 #### Vivi:
-* Tickets auf GitHub checken
+* Tickets auf GitHub checken √
 * Drehbuch (Rohfassung)
 * Rigging in 3ds max anschauen
-* Zenhub installieren
+* Zenhub installieren √
 
 #### Anja:
 * Tickets auf GitHub checken √
