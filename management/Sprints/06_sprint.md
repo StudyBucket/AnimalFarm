@@ -4,15 +4,20 @@
 
 #### Julian:
 * Tickets auf GitHub checken
-* ...
+* Gebäude Ideen
+* Script Animation
+* Rigging in 3ds max anschauen
 
 #### Vera:
 * Tickets auf GitHub checken
-* ...
+* Skybox
+* Rigging in 3ds max anschauen
 
 #### Vivi:
 * Tickets auf GitHub checken
-* ...
+* Rigging in 3ds max anschauen (evtl Bäume riggen)
+* Drehbuch Szene
+* Drehbuch Farmrundgang
 
 #### Anja:
 * Tickets auf GitHub checken
@@ -22,5 +27,7 @@
 
 
 ## Offene Fragen
+* Was genau ist unsere Zielsetzung?
+* Was wollen wir unebdingt umsetzen dieses Semester, was soll fürs nächste geplant werden?
 
 ## Spontane Ideen
