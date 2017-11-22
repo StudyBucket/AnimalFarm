@@ -16,8 +16,9 @@
 
 #### Anja:
 * Tickets auf GitHub checken
-* evtl. weitere Tiermodelle (langzeit) -> zu nächster Woche
-* Rigging in 3ds max anschauen -> zu nächster Woche
+* Hase verbessern (lower poly machen)
+* Rigging in 3ds max anschauen -> probieren, Skelett in Hasen zu machen 
+-> Hase soll als erstes animiert werden
 
 
 ## Offene Fragen
