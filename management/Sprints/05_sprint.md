@@ -22,11 +22,11 @@
 * Zenhub installieren
 
 #### Anja:
-* Tickets auf GitHub checken
-* Amelie fragen wg Tonstudio
-* evtl. weitere Tiermodelle (langzeit)
-* Rigging in 3ds max anschauen
-* Zenhub installieren
+* Tickets auf GitHub checken √
+* Amelie fragen wg Tonstudio √ -> müssten wir Jan fragen, sie weiß nicht mal dass es eines gibt
+* evtl. weitere Tiermodelle (langzeit) -> zu nächster Woche
+* Rigging in 3ds max anschauen -> zu nächster Woche
+* Zenhub installieren √
 
 
 ## Offene Fragen
