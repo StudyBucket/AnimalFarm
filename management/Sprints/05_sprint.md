@@ -9,15 +9,15 @@
 * Zenhub installieren
 
 #### Vera:
-* Tickets auf GitHub checken
-* Zenhub posten
-* Skybox
+* Tickets auf GitHub checken √
+* Zenhub posten √ 
+* Skybox  √
 * Rigging in 3ds max anschauen
-* Zenhub installieren
+* Zenhub installieren √
 
 #### Vivi:
 * Tickets auf GitHub checken √
-* Drehbuch (Rohfassung)
+* Drehbuch (Rohfassung) √
 * Rigging in 3ds max anschauen
 * Zenhub installieren √
 
