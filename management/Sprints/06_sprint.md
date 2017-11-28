@@ -16,7 +16,7 @@
 #### Vivi:
 * Tickets auf GitHub checken
 * Rigging in 3ds max anschauen (evtl Bäume riggen)
-* Drehbuch Szene
+* Drehbuch Szene  √
 * Drehbuch Farmrundgang
 
 #### Anja:
