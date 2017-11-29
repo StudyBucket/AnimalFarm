@@ -12,11 +12,13 @@
 
 #### Vivi:
 * Tickets auf GitHub checken
-* ...
+* Bäume riggen
+* Drehbuch Farmrundgang
+* mind. ein Haus Modell
 
 #### Anja:
 * Tickets auf GitHub checken
-* ...
+* Hase weiter bearbeiten
 
 
 ## Offene Fragen
