@@ -8,7 +8,7 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* ...
+* Scheune modellieren
 
 #### Vivi:
 * Tickets auf GitHub checken
