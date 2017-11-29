@@ -10,12 +10,12 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* Skybox
+* Skybox  √
 * Rigging in 3ds max anschauen
 
 #### Vivi:
-* Tickets auf GitHub checken
-* Rigging in 3ds max anschauen (evtl Bäume riggen)
+* Tickets auf GitHub checken √
+* Rigging in 3ds max anschauen √ (evtl Bäume riggen)
 * Drehbuch Szene  √
 * Drehbuch Farmrundgang
 
