@@ -18,7 +18,8 @@
 
 #### Anja:
 * Tickets auf GitHub checken
-* Hase weiter bearbeiten
+* Hase: Modell fertig
+* falls möglich: Rigging
 
 
 ## Offene Fragen
