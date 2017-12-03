@@ -17,8 +17,8 @@
 * mind. ein Haus Modell
 
 #### Anja:
-* Tickets auf GitHub checken
-* Hase: Modell fertig
+* Tickets auf GitHub checken 
+* Hase: Modell fertig √
 * falls möglich: Rigging
 
 
