@@ -14,7 +14,7 @@
 * Tickets auf GitHub checken
 * Bäume riggen (grade nicht möglich wegen Versions Problemen)
 * Drehbuch Farmrundgang
-* mind. ein Haus Modell 
+* mind. ein Haus Modell (kaputte Mühle plus Rad) √
 
 #### Anja:
 * Tickets auf GitHub checken 
