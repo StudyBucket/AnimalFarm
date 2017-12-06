@@ -8,7 +8,8 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* ...
+* Stall
+* Ordner
 
 #### Vivi:
 * Tickets auf GitHub checken
