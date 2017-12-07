@@ -8,7 +8,7 @@
 * Pferd [1/4]: https://www.youtube.com/watch?v=06KV3fH-tYE&feature=youtu.be 
 * ... 
 
-#### Rigging:
+### Rigging:
 * Anfänger-Tutorial Bein: https://www.youtube.com/watch?v=XVB9W6xhBcs
 
 ## Unity:
