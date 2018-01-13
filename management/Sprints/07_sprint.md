@@ -8,13 +8,13 @@
 
 #### Vera:
 * Tickets auf GitHub checken
-* Scheune modellieren √
+* Scheune modellieren
 
 #### Vivi:
 * Tickets auf GitHub checken
 * Bäume riggen (grade nicht möglich wegen Versions Problemen)
-* Drehbuch Farmrundgang (in arbeit)
-* mind. ein Haus Modell (kaputte Mühle plus Rad) √
+* Drehbuch Farmrundgang
+* mind. ein Haus Modell 
 
 #### Anja:
 * Tickets auf GitHub checken 
