@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 90052a7b3a7c8a14fa4d11d6ed91923d
+timeCreated: 1516421095
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ChickenTor1
+    100002: ChickenTor2
+    100004: DonkeyTorOben1
+    100006: DonkeyTorOben2
+    100008: DonkeyTorUnten002
+    100010: DonkeyTorUnten1
+    100012: MainAussenwand
+    100014: MainTor1
+    100016: MainTor2
+    100018: MainTorCow
+    100020: MainTorHorse1
+    100022: MainTorHorse2
+    100024: MainTorHorse3
+    100026: MainTorSheep
+    100028: PigTor1
+    100030: PigTor10
+    100032: PigTor11
+    100034: PigTor2
+    100036: PigTor3
+    100038: PigTor4
+    100040: PigTor5
+    100042: PigTor6
+    100044: PigTor7
+    100046: PigTor8
+    100048: PigTor9
+    100050: //RootNode
+    400000: ChickenTor1
+    400002: ChickenTor2
+    400004: DonkeyTorOben1
+    400006: DonkeyTorOben2
+    400008: DonkeyTorUnten002
+    400010: DonkeyTorUnten1
+    400012: MainAussenwand
+    400014: MainTor1
+    400016: MainTor2
+    400018: MainTorCow
+    400020: MainTorHorse1
+    400022: MainTorHorse2
+    400024: MainTorHorse3
+    400026: MainTorSheep
+    400028: PigTor1
+    400030: PigTor10
+    400032: PigTor11
+    400034: PigTor2
+    400036: PigTor3
+    400038: PigTor4
+    400040: PigTor5
+    400042: PigTor6
+    400044: PigTor7
+    400046: PigTor8
+    400048: PigTor9
+    400050: //RootNode
+    2100000: 08 - Default
+    2100002: 02 - Default
+    2100004: 09 - Default
+    2100006: 01 - Default
+    2100008: 14 - Default
+    2300000: ChickenTor1
+    2300002: ChickenTor2
+    2300004: DonkeyTorOben1
+    2300006: DonkeyTorOben2
+    2300008: DonkeyTorUnten002
+    2300010: DonkeyTorUnten1
+    2300012: MainAussenwand
+    2300014: MainTor1
+    2300016: MainTor2
+    2300018: MainTorCow
+    2300020: MainTorHorse1
+    2300022: MainTorHorse2
+    2300024: MainTorHorse3
+    2300026: MainTorSheep
+    2300028: PigTor1
+    2300030: PigTor10
+    2300032: PigTor11
+    2300034: PigTor2
+    2300036: PigTor3
+    2300038: PigTor4
+    2300040: PigTor5
+    2300042: PigTor6
+    2300044: PigTor7
+    2300046: PigTor8
+    2300048: PigTor9
+    3300000: ChickenTor1
+    3300002: ChickenTor2
+    3300004: DonkeyTorOben1
+    3300006: DonkeyTorOben2
+    3300008: DonkeyTorUnten002
+    3300010: DonkeyTorUnten1
+    3300012: MainAussenwand
+    3300014: MainTor1
+    3300016: MainTor2
+    3300018: MainTorCow
+    3300020: MainTorHorse1
+    3300022: MainTorHorse2
+    3300024: MainTorHorse3
+    3300026: MainTorSheep
+    3300028: PigTor1
+    3300030: PigTor10
+    3300032: PigTor11
+    3300034: PigTor2
+    3300036: PigTor3
+    3300038: PigTor4
+    3300040: PigTor5
+    3300042: PigTor6
+    3300044: PigTor7
+    3300046: PigTor8
+    3300048: PigTor9
+    4300000: MainAussenwand
+    4300002: MainTor1
+    4300004: MainTor2
+    4300006: MainTorSheep
+    4300008: MainTorCow
+    4300010: MainTorHorse1
+    4300012: MainTorHorse2
+    4300014: MainTorHorse3
+    4300016: PigTor1
+    4300018: PigTor2
+    4300020: PigTor3
+    4300022: PigTor4
+    4300024: PigTor5
+    4300026: PigTor6
+    4300028: PigTor7
+    4300030: PigTor8
+    4300032: PigTor9
+    4300034: PigTor10
+    4300036: PigTor11
+    4300038: ChickenTor1
+    4300040: ChickenTor2
+    4300042: DonkeyTorUnten1
+    4300044: DonkeyTorUnten002
+    4300046: DonkeyTorOben1
+    4300048: DonkeyTorOben2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
