@@ -34,6 +34,8 @@ ModelImporter:
     100052: Rahmen_Fenster018
     100054: Rahmen_Fenster019
     100056: "Schiebe_T\xFCr001"
+    100058: Erdgeschoss_MeshPart0
+    100060: Erdgeschoss_MeshPart1
     400000: "Drehfl\xFCgel_T\xFCr001"
     400002: "Drehfl\xFCgel_T\xFCr002"
     400004: "Drehfl\xFCgel_T\xFCr003"
@@ -63,6 +65,8 @@ ModelImporter:
     400052: Rahmen_Fenster018
     400054: Rahmen_Fenster019
     400056: "Schiebe_T\xFCr001"
+    400058: Erdgeschoss_MeshPart0
+    400060: Erdgeschoss_MeshPart1
     2100000: 'Material #0'
     2100002: 15 - Default
     2100004: 03 - Default
@@ -102,6 +106,8 @@ ModelImporter:
     2300050: Rahmen_Fenster018
     2300052: Rahmen_Fenster019
     2300054: "Schiebe_T\xFCr001"
+    2300056: Erdgeschoss_MeshPart0
+    2300058: Erdgeschoss_MeshPart1
     3300000: "Drehfl\xFCgel_T\xFCr001"
     3300002: "Drehfl\xFCgel_T\xFCr002"
     3300004: "Drehfl\xFCgel_T\xFCr003"
@@ -130,6 +136,8 @@ ModelImporter:
     3300050: Rahmen_Fenster018
     3300052: Rahmen_Fenster019
     3300054: "Schiebe_T\xFCr001"
+    3300056: Erdgeschoss_MeshPart0
+    3300058: Erdgeschoss_MeshPart1
     4300000: Erdgeschoss
     4300002: "Drehfl\xFCgel_T\xFCr001"
     4300004: "Drehfl\xFCgel_T\xFCr002"
@@ -158,6 +166,8 @@ ModelImporter:
     4300050: Rahmen_Fenster019
     4300052: "Schiebe_T\xFCr001"
     4300054: Haustuere
+    4300056: Erdgeschoss_MeshPart0
+    4300058: Erdgeschoss_MeshPart1
     7400000: Idle
     7400002: DoorOpen
     7400004: DoorClose
@@ -289,8 +299,6 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

@@ -1,0 +1,313 @@
+fileFormatVersion: 2
+guid: 230295c2dd32ba84d9fe9dd510ffad8d
+timeCreated: 1516136728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Drehfl\xFCgel_T\xFCr001"
+    100002: "Drehfl\xFCgel_T\xFCr002"
+    100004: "Drehfl\xFCgel_T\xFCr003"
+    100006: "Drehfl\xFCgel_T\xFCr004"
+    100008: "Drehfl\xFCgel_T\xFCr005"
+    100010: "Drehfl\xFCgel_T\xFCr006"
+    100012: Ebene001
+    100014: Ebene002
+    100016: Ebene003
+    100018: Erdgeschoss
+    100020: //RootNode
+    100022: L-Treppe001
+    100024: Linie001
+    100026: Quader001
+    100028: Quader003
+    100030: Rahmen_Fenster001
+    100032: Rahmen_Fenster002
+    100034: Rahmen_Fenster003
+    100036: Rahmen_Fenster004
+    100038: Rahmen_Fenster005
+    100040: Rahmen_Fenster006
+    100042: Rahmen_Fenster007
+    100044: Rahmen_Fenster008
+    100046: Rahmen_Fenster009
+    100048: Rahmen_Fenster010
+    100050: Rahmen_Fenster011
+    100052: Rahmen_Fenster012
+    100054: Rahmen_Fenster013
+    100056: Rahmen_Fenster014
+    100058: Rahmen_Fenster015
+    100060: Rahmen_Fenster016
+    100062: Rahmen_Fenster017
+    100064: Rahmen_Fenster018
+    100066: Rahmen_Fenster019
+    100068: "Schiebe_T\xFCr001"
+    400000: "Drehfl\xFCgel_T\xFCr001"
+    400002: "Drehfl\xFCgel_T\xFCr002"
+    400004: "Drehfl\xFCgel_T\xFCr003"
+    400006: "Drehfl\xFCgel_T\xFCr004"
+    400008: "Drehfl\xFCgel_T\xFCr005"
+    400010: "Drehfl\xFCgel_T\xFCr006"
+    400012: Ebene001
+    400014: Ebene002
+    400016: Ebene003
+    400018: Erdgeschoss
+    400020: //RootNode
+    400022: L-Treppe001
+    400024: Linie001
+    400026: Quader001
+    400028: Quader003
+    400030: Rahmen_Fenster001
+    400032: Rahmen_Fenster002
+    400034: Rahmen_Fenster003
+    400036: Rahmen_Fenster004
+    400038: Rahmen_Fenster005
+    400040: Rahmen_Fenster006
+    400042: Rahmen_Fenster007
+    400044: Rahmen_Fenster008
+    400046: Rahmen_Fenster009
+    400048: Rahmen_Fenster010
+    400050: Rahmen_Fenster011
+    400052: Rahmen_Fenster012
+    400054: Rahmen_Fenster013
+    400056: Rahmen_Fenster014
+    400058: Rahmen_Fenster015
+    400060: Rahmen_Fenster016
+    400062: Rahmen_Fenster017
+    400064: Rahmen_Fenster018
+    400066: Rahmen_Fenster019
+    400068: "Schiebe_T\xFCr001"
+    2300000: "Drehfl\xFCgel_T\xFCr001"
+    2300002: "Drehfl\xFCgel_T\xFCr002"
+    2300004: "Drehfl\xFCgel_T\xFCr003"
+    2300006: "Drehfl\xFCgel_T\xFCr004"
+    2300008: "Drehfl\xFCgel_T\xFCr005"
+    2300010: "Drehfl\xFCgel_T\xFCr006"
+    2300012: Ebene001
+    2300014: Ebene002
+    2300016: Ebene003
+    2300018: Erdgeschoss
+    2300020: L-Treppe001
+    2300022: Linie001
+    2300024: Quader001
+    2300026: Quader003
+    2300028: Rahmen_Fenster001
+    2300030: Rahmen_Fenster002
+    2300032: Rahmen_Fenster003
+    2300034: Rahmen_Fenster004
+    2300036: Rahmen_Fenster005
+    2300038: Rahmen_Fenster006
+    2300040: Rahmen_Fenster007
+    2300042: Rahmen_Fenster008
+    2300044: Rahmen_Fenster009
+    2300046: Rahmen_Fenster010
+    2300048: Rahmen_Fenster011
+    2300050: Rahmen_Fenster012
+    2300052: Rahmen_Fenster013
+    2300054: Rahmen_Fenster014
+    2300056: Rahmen_Fenster015
+    2300058: Rahmen_Fenster016
+    2300060: Rahmen_Fenster017
+    2300062: Rahmen_Fenster018
+    2300064: Rahmen_Fenster019
+    2300066: "Schiebe_T\xFCr001"
+    3300000: "Drehfl\xFCgel_T\xFCr001"
+    3300002: "Drehfl\xFCgel_T\xFCr002"
+    3300004: "Drehfl\xFCgel_T\xFCr003"
+    3300006: "Drehfl\xFCgel_T\xFCr004"
+    3300008: "Drehfl\xFCgel_T\xFCr005"
+    3300010: "Drehfl\xFCgel_T\xFCr006"
+    3300012: Ebene001
+    3300014: Ebene002
+    3300016: Ebene003
+    3300018: Erdgeschoss
+    3300020: L-Treppe001
+    3300022: Linie001
+    3300024: Quader001
+    3300026: Quader003
+    3300028: Rahmen_Fenster001
+    3300030: Rahmen_Fenster002
+    3300032: Rahmen_Fenster003
+    3300034: Rahmen_Fenster004
+    3300036: Rahmen_Fenster005
+    3300038: Rahmen_Fenster006
+    3300040: Rahmen_Fenster007
+    3300042: Rahmen_Fenster008
+    3300044: Rahmen_Fenster009
+    3300046: Rahmen_Fenster010
+    3300048: Rahmen_Fenster011
+    3300050: Rahmen_Fenster012
+    3300052: Rahmen_Fenster013
+    3300054: Rahmen_Fenster014
+    3300056: Rahmen_Fenster015
+    3300058: Rahmen_Fenster016
+    3300060: Rahmen_Fenster017
+    3300062: Rahmen_Fenster018
+    3300064: Rahmen_Fenster019
+    3300066: "Schiebe_T\xFCr001"
+    4300000: Erdgeschoss
+    4300002: L-Treppe001
+    4300004: Quader001
+    4300006: Ebene001
+    4300008: "Drehfl\xFCgel_T\xFCr001"
+    4300010: "Drehfl\xFCgel_T\xFCr002"
+    4300012: "Drehfl\xFCgel_T\xFCr003"
+    4300014: "Drehfl\xFCgel_T\xFCr004"
+    4300016: "Drehfl\xFCgel_T\xFCr005"
+    4300018: "Schiebe_T\xFCr001"
+    4300020: "Drehfl\xFCgel_T\xFCr006"
+    4300022: Rahmen_Fenster001
+    4300024: Rahmen_Fenster002
+    4300026: Rahmen_Fenster003
+    4300028: Rahmen_Fenster004
+    4300030: Rahmen_Fenster005
+    4300032: Rahmen_Fenster006
+    4300034: Rahmen_Fenster007
+    4300036: Rahmen_Fenster008
+    4300038: Rahmen_Fenster009
+    4300040: Rahmen_Fenster010
+    4300042: Rahmen_Fenster011
+    4300044: Rahmen_Fenster012
+    4300046: Rahmen_Fenster013
+    4300048: Rahmen_Fenster014
+    4300050: Rahmen_Fenster015
+    4300052: Rahmen_Fenster016
+    4300054: Rahmen_Fenster017
+    4300056: Rahmen_Fenster018
+    4300058: Rahmen_Fenster019
+    4300060: Linie001
+    4300062: Ebene002
+    4300064: Ebene003
+    4300066: Quader003
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 3c8297f5afc4cca47833ef6df2c48cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: da04d165d49c0ff40b7765ab3380b2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 26f62d0e39f110e4183c6832b19f713e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 9b16296937932b64f894923949473c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: f99d13479ff4bec47ae6b26eda82189c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: 78ad0644dff7bc54e8ecc9cd596026b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: 34881aa95033e2f448c0a226d6c1d5ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 1f676c75ba7e7384eba0f08f8f314617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #0'
+    second: {fileID: 2100000, guid: f341a25b5eb47624a8fd36500989cbb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: 0474d0254e4345943b7cb18a1a899563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fe235ea6409473241aa554d0503399e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
