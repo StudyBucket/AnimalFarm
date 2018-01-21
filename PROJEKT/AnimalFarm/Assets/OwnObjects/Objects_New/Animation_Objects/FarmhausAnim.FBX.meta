@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 11d52e654ff529142a34e3d25ca899c3
+timeCreated: 1516565660
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: "Drehfl\xFCgel_T\xFCr001"
+    100002: "Drehfl\xFCgel_T\xFCr002"
+    100004: "Drehfl\xFCgel_T\xFCr003"
+    100006: "Drehfl\xFCgel_T\xFCr004"
+    100008: "Drehfl\xFCgel_T\xFCr005"
+    100010: "Drehfl\xFCgel_T\xFCr006"
+    100012: Erdgeschoss
+    100014: //RootNode
+    100016: Haustuere
+    100018: Rahmen_Fenster001
+    100020: Rahmen_Fenster002
+    100022: Rahmen_Fenster003
+    100024: Rahmen_Fenster004
+    100026: Rahmen_Fenster005
+    100028: Rahmen_Fenster006
+    100030: Rahmen_Fenster007
+    100032: Rahmen_Fenster008
+    100034: Rahmen_Fenster009
+    100036: Rahmen_Fenster010
+    100038: Rahmen_Fenster011
+    100040: Rahmen_Fenster012
+    100042: Rahmen_Fenster013
+    100044: Rahmen_Fenster014
+    100046: Rahmen_Fenster015
+    100048: Rahmen_Fenster016
+    100050: Rahmen_Fenster017
+    100052: Rahmen_Fenster018
+    100054: Rahmen_Fenster019
+    100056: "Schiebe_T\xFCr001"
+    100058: Schiebetuere
+    400000: "Drehfl\xFCgel_T\xFCr001"
+    400002: "Drehfl\xFCgel_T\xFCr002"
+    400004: "Drehfl\xFCgel_T\xFCr003"
+    400006: "Drehfl\xFCgel_T\xFCr004"
+    400008: "Drehfl\xFCgel_T\xFCr005"
+    400010: "Drehfl\xFCgel_T\xFCr006"
+    400012: Erdgeschoss
+    400014: //RootNode
+    400016: Haustuere
+    400018: Rahmen_Fenster001
+    400020: Rahmen_Fenster002
+    400022: Rahmen_Fenster003
+    400024: Rahmen_Fenster004
+    400026: Rahmen_Fenster005
+    400028: Rahmen_Fenster006
+    400030: Rahmen_Fenster007
+    400032: Rahmen_Fenster008
+    400034: Rahmen_Fenster009
+    400036: Rahmen_Fenster010
+    400038: Rahmen_Fenster011
+    400040: Rahmen_Fenster012
+    400042: Rahmen_Fenster013
+    400044: Rahmen_Fenster014
+    400046: Rahmen_Fenster015
+    400048: Rahmen_Fenster016
+    400050: Rahmen_Fenster017
+    400052: Rahmen_Fenster018
+    400054: Rahmen_Fenster019
+    400056: "Schiebe_T\xFCr001"
+    400058: Schiebetuere
+    2100000: 'Material #0'
+    2100002: 15 - Default
+    2100004: 03 - Default
+    2100006: 20 - Default
+    2100008: 11 - Default
+    2100010: 07 - Default
+    2100012: 'Material #12'
+    2100014: 01 - Default
+    2100016: 08 - Default
+    2100018: 14 - Default
+    2300000: "Drehfl\xFCgel_T\xFCr001"
+    2300002: "Drehfl\xFCgel_T\xFCr002"
+    2300004: "Drehfl\xFCgel_T\xFCr003"
+    2300006: "Drehfl\xFCgel_T\xFCr004"
+    2300008: "Drehfl\xFCgel_T\xFCr005"
+    2300010: "Drehfl\xFCgel_T\xFCr006"
+    2300012: Erdgeschoss
+    2300014: Haustuere
+    2300016: Rahmen_Fenster001
+    2300018: Rahmen_Fenster002
+    2300020: Rahmen_Fenster003
+    2300022: Rahmen_Fenster004
+    2300024: Rahmen_Fenster005
+    2300026: Rahmen_Fenster006
+    2300028: Rahmen_Fenster007
+    2300030: Rahmen_Fenster008
+    2300032: Rahmen_Fenster009
+    2300034: Rahmen_Fenster010
+    2300036: Rahmen_Fenster011
+    2300038: Rahmen_Fenster012
+    2300040: Rahmen_Fenster013
+    2300042: Rahmen_Fenster014
+    2300044: Rahmen_Fenster015
+    2300046: Rahmen_Fenster016
+    2300048: Rahmen_Fenster017
+    2300050: Rahmen_Fenster018
+    2300052: Rahmen_Fenster019
+    2300054: "Schiebe_T\xFCr001"
+    2300056: Schiebetuere
+    3300000: "Drehfl\xFCgel_T\xFCr001"
+    3300002: "Drehfl\xFCgel_T\xFCr002"
+    3300004: "Drehfl\xFCgel_T\xFCr003"
+    3300006: "Drehfl\xFCgel_T\xFCr004"
+    3300008: "Drehfl\xFCgel_T\xFCr005"
+    3300010: "Drehfl\xFCgel_T\xFCr006"
+    3300012: Erdgeschoss
+    3300014: Haustuere
+    3300016: Rahmen_Fenster001
+    3300018: Rahmen_Fenster002
+    3300020: Rahmen_Fenster003
+    3300022: Rahmen_Fenster004
+    3300024: Rahmen_Fenster005
+    3300026: Rahmen_Fenster006
+    3300028: Rahmen_Fenster007
+    3300030: Rahmen_Fenster008
+    3300032: Rahmen_Fenster009
+    3300034: Rahmen_Fenster010
+    3300036: Rahmen_Fenster011
+    3300038: Rahmen_Fenster012
+    3300040: Rahmen_Fenster013
+    3300042: Rahmen_Fenster014
+    3300044: Rahmen_Fenster015
+    3300046: Rahmen_Fenster016
+    3300048: Rahmen_Fenster017
+    3300050: Rahmen_Fenster018
+    3300052: Rahmen_Fenster019
+    3300054: "Schiebe_T\xFCr001"
+    3300056: Schiebetuere
+    4300000: Erdgeschoss
+    4300002: "Drehfl\xFCgel_T\xFCr001"
+    4300004: "Drehfl\xFCgel_T\xFCr002"
+    4300006: "Drehfl\xFCgel_T\xFCr003"
+    4300008: "Drehfl\xFCgel_T\xFCr004"
+    4300010: "Drehfl\xFCgel_T\xFCr005"
+    4300012: "Drehfl\xFCgel_T\xFCr006"
+    4300014: Rahmen_Fenster001
+    4300016: Rahmen_Fenster002
+    4300018: Rahmen_Fenster003
+    4300020: Rahmen_Fenster004
+    4300022: Rahmen_Fenster005
+    4300024: Rahmen_Fenster006
+    4300026: Rahmen_Fenster007
+    4300028: Rahmen_Fenster008
+    4300030: Rahmen_Fenster009
+    4300032: Rahmen_Fenster010
+    4300034: Rahmen_Fenster011
+    4300036: Rahmen_Fenster012
+    4300038: Rahmen_Fenster013
+    4300040: Rahmen_Fenster014
+    4300042: Rahmen_Fenster015
+    4300044: Rahmen_Fenster016
+    4300046: Rahmen_Fenster017
+    4300048: Rahmen_Fenster018
+    4300050: Rahmen_Fenster019
+    4300052: "Schiebe_T\xFCr001"
+    4300054: Haustuere
+    4300056: Schiebetuere
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

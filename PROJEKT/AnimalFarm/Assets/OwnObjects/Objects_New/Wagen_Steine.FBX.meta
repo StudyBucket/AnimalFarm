@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: ca981bbdb5033db4c9882091f8356975
+timeCreated: 1516565675
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Achse1
+    100002: Achse2
+    100004: Handle
+    100006: Stein004
+    100008: Stein005
+    100010: Stein006
+    100012: Stein007
+    100014: Stein008
+    100016: Stein009
+    100018: Stein010
+    100020: Stein011
+    100022: Stein012
+    100024: Stein013
+    100026: Stein014
+    100028: Stein015
+    100030: Stein016
+    100032: Stein017
+    100034: Stein1
+    100036: Stein2
+    100038: Stein3
+    100040: //RootNode
+    100042: WagenBody
+    100044: WheelBackLeft
+    100046: WheelBackRight
+    100048: WheelFrontLeft
+    100050: WheelFrontRight
+    400000: Achse1
+    400002: Achse2
+    400004: Handle
+    400006: Stein004
+    400008: Stein005
+    400010: Stein006
+    400012: Stein007
+    400014: Stein008
+    400016: Stein009
+    400018: Stein010
+    400020: Stein011
+    400022: Stein012
+    400024: Stein013
+    400026: Stein014
+    400028: Stein015
+    400030: Stein016
+    400032: Stein017
+    400034: Stein1
+    400036: Stein2
+    400038: Stein3
+    400040: //RootNode
+    400042: WagenBody
+    400044: WheelBackLeft
+    400046: WheelBackRight
+    400048: WheelFrontLeft
+    400050: WheelFrontRight
+    2100000: 08 - Default
+    2100002: 02 - Default
+    2100004: 01 - Default
+    2100006: 09 - Default
+    2100008: 20 - Default
+    2100010: 19 - Default
+    2300000: Achse1
+    2300002: Achse2
+    2300004: Handle
+    2300006: Stein004
+    2300008: Stein005
+    2300010: Stein006
+    2300012: Stein007
+    2300014: Stein008
+    2300016: Stein009
+    2300018: Stein010
+    2300020: Stein011
+    2300022: Stein012
+    2300024: Stein013
+    2300026: Stein014
+    2300028: Stein015
+    2300030: Stein016
+    2300032: Stein017
+    2300034: Stein1
+    2300036: Stein2
+    2300038: Stein3
+    2300040: WagenBody
+    2300042: WheelBackLeft
+    2300044: WheelBackRight
+    2300046: WheelFrontLeft
+    2300048: WheelFrontRight
+    3300000: Achse1
+    3300002: Achse2
+    3300004: Handle
+    3300006: Stein004
+    3300008: Stein005
+    3300010: Stein006
+    3300012: Stein007
+    3300014: Stein008
+    3300016: Stein009
+    3300018: Stein010
+    3300020: Stein011
+    3300022: Stein012
+    3300024: Stein013
+    3300026: Stein014
+    3300028: Stein015
+    3300030: Stein016
+    3300032: Stein017
+    3300034: Stein1
+    3300036: Stein2
+    3300038: Stein3
+    3300040: WagenBody
+    3300042: WheelBackLeft
+    3300044: WheelBackRight
+    3300046: WheelFrontLeft
+    3300048: WheelFrontRight
+    4300000: Handle
+    4300002: WagenBody
+    4300004: Achse1
+    4300006: Achse2
+    4300008: WheelFrontLeft
+    4300010: WheelBackLeft
+    4300012: WheelBackRight
+    4300014: WheelFrontRight
+    4300016: Stein1
+    4300018: Stein2
+    4300020: Stein3
+    4300022: Stein004
+    4300024: Stein005
+    4300026: Stein006
+    4300028: Stein007
+    4300030: Stein008
+    4300032: Stein009
+    4300034: Stein010
+    4300036: Stein011
+    4300038: Stein012
+    4300040: Stein013
+    4300042: Stein014
+    4300044: Stein015
+    4300046: Stein016
+    4300048: Stein017
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
