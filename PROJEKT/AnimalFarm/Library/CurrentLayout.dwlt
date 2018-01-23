@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 69
+  controlID: 129
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 83
+  controlID: 130
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 84
+  controlID: 131
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,9 +369,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
+    m_SelectedIDs: 66ecffff
+    m_LastClickedID: -5018
+    m_ExpandedIDs: 9efbffff0000000048380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,9 +427,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 124.578125, y: 99.609375, z: 240.42188}
+    m_Target: {x: 150.45312, y: 111.357666, z: 137.14551}
     speed: 2
-    m_Value: {x: 124.578125, y: 99.609375, z: 240.42188}
+    m_Value: {x: 150.45312, y: 111.357666, z: 137.14551}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -445,21 +445,21 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
     zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.24350898, y: -0.48119155, z: 0.14116204, w: 0.83022624}
+    m_Target: {x: -0.056727152, y: 0.33730483, z: -0.020392949, w: -0.93950725}
     speed: 2
-    m_Value: {x: -0.24350898, y: 0.48119158, z: -0.14116204, w: -0.8302263}
+    m_Value: {x: -0.05672482, y: 0.33729097, z: -0.02039211, w: -0.9394686}
   m_Size:
-    m_Target: 107.79656
+    m_Target: 9.900811
     speed: 2
-    m_Value: 107.79656
+    m_Value: 9.900811
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -589,10 +589,10 @@ MonoBehaviour:
   m_LastProjectPath: D:\Dokumente\GitHub\AnimalFarm\PROJEKT\AnimalFarm
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78290000
-    m_LastClickedID: 10616
-    m_ExpandedIDs: 0000000078290000d62900005e2b0000d22b00006a3600002a370000ffffff7f
+    scrollPos: {x: 0, y: 23}
+    m_SelectedIDs: 7a290000
+    m_LastClickedID: 10618
+    m_ExpandedIDs: 000000007a290000d8290000602b0000d42b00000c3500008a3600004a370000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,7 +620,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000078290000d62900005e2b0000d22b00006a3600002a370000
+    m_ExpandedIDs: 000000007a290000d8290000602b0000d42b00000c3500008a3600004a370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 6}
     m_GridSize: 70
   m_DirectoriesAreaWidth: 232
 --- !u!114 &18
