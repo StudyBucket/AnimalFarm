@@ -291,13 +291,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="AnimalFarm.CSharp.Plugins.csproj">
-      <Project>{D22C04BC-B344-E6CA-4E38-C4136DB767DF}</Project>
-      <Name>AnimalFarm.CSharp.Plugins</Name>
-    </ProjectReference>
     <ProjectReference Include="AnimalFarm.CSharp.csproj">
       <Project>{76BB9241-3FD0-D58B-1814-9049CA932468}</Project>
       <Name>AnimalFarm.CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="AnimalFarm.CSharp.Plugins.csproj">
+      <Project>{D22C04BC-B344-E6CA-4E38-C4136DB767DF}</Project>
+      <Name>AnimalFarm.CSharp.Plugins</Name>
     </ProjectReference>
     <ProjectReference Include="AnimalFarm.CSharp.Editor.Plugins.csproj">
       <Project>{125F12B0-41F3-C1CE-AF9B-9C25155580AB}</Project>
@@ -337,6 +337,7 @@
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
     <None Include="Assets\GoogleVR\Shaders\Video\VideoUnlitShader.shader" />
+    <None Include="Assets\Objects\Imports\VertexColorFarmAnimals\Shaders\VertexColorUnlit.shader" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
