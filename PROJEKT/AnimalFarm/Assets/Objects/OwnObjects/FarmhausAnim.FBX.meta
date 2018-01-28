@@ -3,7 +3,7 @@ guid: 11d52e654ff529142a34e3d25ca899c3
 timeCreated: 1516565660
 licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 21
   fileIDToRecycleName:
     100000: "Drehfl\xFCgel_T\xFCr001"
     100002: "Drehfl\xFCgel_T\xFCr002"
@@ -35,6 +35,8 @@ ModelImporter:
     100054: Rahmen_Fenster019
     100056: "Schiebe_T\xFCr001"
     100058: Schiebetuere
+    100060: Erdgeschoss_MeshPart0
+    100062: Erdgeschoss_MeshPart1
     400000: "Drehfl\xFCgel_T\xFCr001"
     400002: "Drehfl\xFCgel_T\xFCr002"
     400004: "Drehfl\xFCgel_T\xFCr003"
@@ -65,6 +67,8 @@ ModelImporter:
     400054: Rahmen_Fenster019
     400056: "Schiebe_T\xFCr001"
     400058: Schiebetuere
+    400060: Erdgeschoss_MeshPart0
+    400062: Erdgeschoss_MeshPart1
     2100000: 'Material #0'
     2100002: 15 - Default
     2100004: 03 - Default
@@ -104,6 +108,8 @@ ModelImporter:
     2300052: Rahmen_Fenster019
     2300054: "Schiebe_T\xFCr001"
     2300056: Schiebetuere
+    2300058: Erdgeschoss_MeshPart0
+    2300060: Erdgeschoss_MeshPart1
     3300000: "Drehfl\xFCgel_T\xFCr001"
     3300002: "Drehfl\xFCgel_T\xFCr002"
     3300004: "Drehfl\xFCgel_T\xFCr003"
@@ -133,6 +139,8 @@ ModelImporter:
     3300052: Rahmen_Fenster019
     3300054: "Schiebe_T\xFCr001"
     3300056: Schiebetuere
+    3300058: Erdgeschoss_MeshPart0
+    3300060: Erdgeschoss_MeshPart1
     4300000: Erdgeschoss
     4300002: "Drehfl\xFCgel_T\xFCr001"
     4300004: "Drehfl\xFCgel_T\xFCr002"
@@ -162,16 +170,16 @@ ModelImporter:
     4300052: "Schiebe_T\xFCr001"
     4300054: Haustuere
     4300056: Schiebetuere
+    4300058: Erdgeschoss_MeshPart0
+    4300060: Erdgeschoss_MeshPart1
     7400000: Idle
     7400002: open
     7400004: close
     9500000: //RootNode
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -184,7 +192,6 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -293,8 +300,6 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
