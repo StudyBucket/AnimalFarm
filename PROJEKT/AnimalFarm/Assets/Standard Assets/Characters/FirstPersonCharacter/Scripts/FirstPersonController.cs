@@ -29,6 +29,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         [SerializeField] private AudioClip m_LandSound;           // the sound played when character touches back on ground.
 
         private Camera m_Camera;
+        public GameObject head; //new GameObject to store the actual Camera-Position
         private bool m_Jump;
         private float m_YRotation;
         private Vector2 m_Input;
@@ -97,7 +98,10 @@ namespace UnityStandardAssets.Characters.FirstPerson
             float speed;
             GetInput(out speed);
             // always move along the camera forward as it is the direction that it being aimed at
-            Vector3 desiredMove = transform.forward*m_Input.y + transform.right*m_Input.x;
+            //Vector3 desiredMove = transform.forward*m_Input.y + transform.right*m_Input.x;
+
+            //always move along the values stored in head
+            Vector3 desiredMove = head.transform.forward * m_Input.y + head.transform.right * m_Input.x;
 
             // get a normal for the surface that is being touched to move along it
             RaycastHit hitInfo;
