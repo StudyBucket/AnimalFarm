@@ -9,7 +9,7 @@ public class Creep : MonoBehaviour {
 	public float MinimumDistance = 5.5f;
 
 	void Start () {
-		Player = GameObject.Find("FirstPersonCharacter");
+		Player = GameObject.Find("Player");
 	}
 
 	void Update () {
