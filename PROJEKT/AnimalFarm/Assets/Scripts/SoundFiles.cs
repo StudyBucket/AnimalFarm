@@ -26,7 +26,6 @@ public class SoundFiles : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        distance = Vector3.Distance(player.transform.position, obj.transform.position);
 
         if (looking)
         {

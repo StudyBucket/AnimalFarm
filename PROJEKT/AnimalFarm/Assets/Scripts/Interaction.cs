@@ -50,7 +50,6 @@ public class Interaction : MonoBehaviour {
 
     public void OnGazeEnter()
     {
-        print("Looking");
         looking = true;       
     }
     public void OnGazeExit()
