@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Imports/Almgp_grassyTerrain/scene.unity
-  isLoaded: 1
-  isActive: 1
