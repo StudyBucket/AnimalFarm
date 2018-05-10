@@ -401,6 +401,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\Scripts\Creep.cs" />
+    <Compile Include="Assets\Scripts\DoorClick.cs" />
     <Compile Include="Assets\Scripts\DoorController.cs" />
     <Compile Include="Assets\Scripts\doorControllerClick.cs" />
     <Compile Include="Assets\Scripts\Follow.cs" />
