@@ -5,22 +5,25 @@ using UnityEngine;
 [RequireComponent(typeof(Collider))]
 
 public class Interaction : MonoBehaviour {
-    public GameObject obj,player;
+    public GameObject Flasche,Testflasche,player;
     private bool looking ;
     public float minDistance = 10.0f;
     private float distance;
-
-    bool isOpen;
+    public bool carry;
 
     // Use this for initialization
     void Start () {
-        looking = false;	
+        looking = false;
+        carry = false;
+
+        Testflasche.SetActive(true);
+        Flasche.SetActive(false);
 	}
 
     // Update is called once per frame
     void Update()
     {
-        distance = Vector3.Distance(player.transform.position, obj.transform.position);
+        distance = Vector3.Distance(player.transform.position, Testflasche.transform.position);
   
         if (looking)
         {
@@ -30,17 +33,10 @@ public class Interaction : MonoBehaviour {
                 
                 if (Input.GetButtonDown("Fire1"))
                 {
-                    
-                    if (isOpen == false)
-                    {
-                        GetComponent<Animator>().SetTrigger("open");
-                        isOpen = true;
-                    }
-                    else
-                    {
-                        GetComponent<Animator>().SetTrigger("close");
-                        isOpen = false;
-                    }
+
+                    Testflasche.SetActive(false);
+                    Flasche.SetActive(true);
+                    carry = true;
                 }
             }
         } 
